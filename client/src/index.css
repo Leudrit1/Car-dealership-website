@@ -1,0 +1,55 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary: 6 78% 45%;
+  --primary-foreground: 0 0% 100%;
+  --ring: 6 78% 45%;
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply font-sans antialiased bg-background text-foreground;
+  }
+
+  input[type="number"]::-webkit-inner-spin-button,
+  input[type="number"]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+
+  input[type="number"] {
+    -moz-appearance: textfield;
+  }
+
+  ::placeholder {
+    @apply text-muted-foreground/50;
+  }
+}
+
+.price-input {
+  @apply pl-8 relative;
+}
+
+.price-input::before {
+  content: "CHF";
+  @apply absolute left-2 top-1/2 -translate-y-1/2 text-muted-foreground font-medium;
+}
+
+.navbar-red-accent {
+  border-bottom: 0.5px solid hsl(6 78% 45%);
+}
+.section-red-line {
+  border-left: 4px solid hsl(6 78% 45%);
+  border-right: 4px solid hsl(6 78% 45%);
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+.card-red-bottom {
+  border-bottom: 2px solid hsl(6 78% 50% / 0.3);
+}

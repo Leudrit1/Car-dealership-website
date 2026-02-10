@@ -1,0 +1,67 @@
+<div class="background3">
+      <div class="heading-2">
+        <div class="we-re-big-on-what-matters-to-you">
+          We&#039;re BIG on what
+          <br />
+          matters to you
+        </div>
+      </div>
+      <div class="f-d-1-svg">
+        <div class="f-d-1-svg-fill">
+          <div class="f-d-1-svg2">
+            <img class="clip-path-group" src="clip-path-group0.svg" />
+          </div>
+        </div>
+      </div>
+      <div class="heading-3-special-financing-offers">
+        Special Financing Offers
+      </div>
+      <div
+        class="our-stress-free-finance-department-that-can-find-financial-solutions-to-save-you-money"
+      >
+        Our stress-free finance department that can
+        <br />
+        find financial solutions to save you money.
+      </div>
+      <div class="f-d-2-svg">
+        <div class="f-d-2-svg-fill">
+          <img class="f-d-2-svg2" src="f-d-2-svg1.svg" />
+        </div>
+      </div>
+      <div class="heading-3-trusted-car-dealership">Trusted Car Dealership</div>
+      <div
+        class="our-stress-free-finance-department-that-can-find-financial-solutions-to-save-you-money2"
+      >
+        Our stress-free finance department that can
+        <br />
+        find financial solutions to save you money.
+      </div>
+      <div class="f-d-3-svg">
+        <div class="f-d-3-svg-fill">
+          <div class="f-d-3-svg2">
+            <img class="clip-path-group2" src="clip-path-group1.svg" />
+          </div>
+        </div>
+      </div>
+      <div class="heading-3-transparent-pricing">Transparent Pricing</div>
+      <div
+        class="our-stress-free-finance-department-that-can-find-financial-solutions-to-save-you-money3"
+      >
+        Our stress-free finance department that can
+        <br />
+        find financial solutions to save you money.
+      </div>
+      <div class="f-d-4-svg">
+        <div class="f-d-4-svg-fill">
+          <img class="f-d-4-svg2" src="f-d-4-svg1.svg" />
+        </div>
+      </div>
+      <div class="heading-3-expert-car-service">Expert Car Service</div>
+      <div
+        class="our-stress-free-finance-department-that-can-find-financial-solutions-to-save-you-money4"
+      >
+        Our stress-free finance department that can
+        <br />
+        find financial solutions to save you money.
+      </div>
+    </div>
