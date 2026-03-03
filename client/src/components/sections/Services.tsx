@@ -4,8 +4,8 @@ import {
   Wrench, 
   Paintbrush, 
   Car, 
-  Battery, 
-  Shield 
+  Shield,
+  Sparkles
 } from "lucide-react";
 
 export default function Services() {
@@ -31,9 +31,9 @@ export default function Services() {
       description: "Gruendliche Pruefung vor dem Kauf Ihres Fahrzeugs.",
     },
     {
-      icon: <Battery className="w-12 h-12 text-white" />,
-      title: "Elektro-Service",
-      description: "Wartung und Upgrades fuer Elektro- und Hybridfahrzeuge.",
+      icon: <Sparkles className="w-12 h-12 text-white" />,
+      title: "Fahrzeugaufbereitung innen & aussen",
+      description: "Sorgfaeltige Reinigung, Pflege und Schutz fuer Interieur und Exterieur Ihres Fahrzeugs.",
     },
     {
       icon: <Shield className="w-12 h-12 text-white" />,
