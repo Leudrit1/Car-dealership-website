@@ -12,7 +12,7 @@ import Testimonials from "@/components/sections/Testimonials";
 import HistoryVision from "@/components/sections/HistoryVision";
 import type { Car } from "@shared/schema";
 
-const heroImage = "https://images.unsplash.com/photo-1601362840469-51e4d8d58785";
+const heroImage = "/img/DHM-hero.jpeg";
 
 export default function Home() {
   const { data: cars, isLoading } = useQuery<Car[]>({ 
@@ -33,7 +33,7 @@ export default function Home() {
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.6 }}
-            className="max-w-2xl"
+            className="max-w-2xl mt-8 md:mt-16"
           >
             <h1 className="text-4xl md:text-6xl font-bold text-white mb-6">
               Ihr Traumfahrzeug wartet
